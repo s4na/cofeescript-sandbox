@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:s4na/cofeescript-sandbox.git",
   "author": "s4na <appletea.umauma@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "coffeescript": "^2.5.1"
+  }
 }
